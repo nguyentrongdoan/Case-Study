@@ -9,7 +9,7 @@ let Image = [
     "https://files.vforum.vn/2014/T10/img/vforum.vn-133676-10365762-756426887742896-4051556388426351029-n.jpg",
     "https://files.vforum.vn/2014/T10/img/vforum.vn-133676-10395859-756427127742872-5852045631498248904-n.jpg"
 ];
-let answer = ["1", "2", "3", "4", "5"];
+let answer = ["mật mã", "tăng ca", "bán đảo", "quy củ", "mã hóa"];
 let question1 = new Question(Image[0], answer[0]);
 let question2 = new Question(Image[1], answer[1]);
 let question3 = new Question(Image[2], answer[2]);
